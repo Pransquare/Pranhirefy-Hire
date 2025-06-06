@@ -1,4 +1,4 @@
-package com.pranhirefy.hire.serviceImpl;
+package com.pranhirefy.hire.service.Impl;
 
 
 
