@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.pranhirefy.hire.Dto.CandidateDto;
+import com.pranhirefy.hire.dto.CandidateDto;
 import com.pranhirefy.hire.exception.CandidateNotFoundException;
 //import com.pranhirefy.hire.exception.ResourceNotFoundException;
 import com.pranhirefy.hire.service.CandidateService;

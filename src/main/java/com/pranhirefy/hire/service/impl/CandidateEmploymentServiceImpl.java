@@ -1,4 +1,4 @@
-package com.pranhirefy.hire.service.Impl;
+package com.pranhirefy.hire.service.impl;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.pranhirefy.hire.Dto.CandidateEmployeementDto;
+import com.pranhirefy.hire.dto.CandidateEmployeementDto;
 import com.pranhirefy.hire.entity.Candidate;
 import com.pranhirefy.hire.entity.CandidateEmployment;
 import com.pranhirefy.hire.exception.CandidateEmployeementDuplicateCandidateEmploymentException;

@@ -4,7 +4,7 @@ package com.pranhirefy.hire.service;
 
 import java.util.List;
 
-import com.pranhirefy.hire.Dto.CandidateEmployeementDto;
+import com.pranhirefy.hire.dto.CandidateEmployeementDto;
 
 //import com.pranhirefy.hire.dto.CandidateEmploymentDto;
 

@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import com.pranhirefy.hire.Dto.CandidateOfferLetterDTO;
+import com.pranhirefy.hire.dto.CandidateOfferLetterDTO;
 //import com.pranhirefy.hire.dto.CandidateOfferLetterDto;
 import com.pranhirefy.hire.service.CandidateOfferLetterService;
 

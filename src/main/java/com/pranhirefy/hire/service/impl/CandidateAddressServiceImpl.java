@@ -1,10 +1,10 @@
-package com.pranhirefy.hire.service.Impl;
+package com.pranhirefy.hire.service.impl;
 
 import java.util.Date;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import com.pranhirefy.hire.Dto.CandidateAddressDto;
+import com.pranhirefy.hire.dto.CandidateAddressDto;
 import com.pranhirefy.hire.entity.Candidate;
 import com.pranhirefy.hire.entity.CandidateAddress;
 import com.pranhirefy.hire.exception.CandidateAddressDataException;

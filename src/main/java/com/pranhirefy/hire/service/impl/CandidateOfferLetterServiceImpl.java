@@ -1,4 +1,4 @@
-package com.pranhirefy.hire.service.Impl;
+package com.pranhirefy.hire.service.impl;
 
 
 
@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.pranhirefy.hire.Dto.CandidateOfferLetterDTO;
+import com.pranhirefy.hire.dto.CandidateOfferLetterDTO;
 //import com.pranhirefy.hire.dto.CandidateOfferLetterDto;
 import com.pranhirefy.hire.entity.Candidate;
 import com.pranhirefy.hire.entity.CandidateOfferLetter;

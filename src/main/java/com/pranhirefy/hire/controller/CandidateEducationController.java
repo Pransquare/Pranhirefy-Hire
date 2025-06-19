@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import com.pranhirefy.hire.Dto.CandidateEducationDto;
+import com.pranhirefy.hire.dto.CandidateEducationDto;
 import com.pranhirefy.hire.service.CandidateEducationService;
 
 @RestController

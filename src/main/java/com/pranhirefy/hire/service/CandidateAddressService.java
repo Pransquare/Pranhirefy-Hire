@@ -3,7 +3,8 @@ package com.pranhirefy.hire.service;
 
 
 import java.util.List;
-import com.pranhirefy.hire.Dto.CandidateAddressDto;
+
+import com.pranhirefy.hire.dto.CandidateAddressDto;
 
 public interface CandidateAddressService {
     CandidateAddressDto createAddress(CandidateAddressDto dto);

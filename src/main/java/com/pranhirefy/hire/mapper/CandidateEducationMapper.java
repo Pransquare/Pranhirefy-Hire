@@ -2,7 +2,7 @@ package com.pranhirefy.hire.mapper;
 
 
 
-import com.pranhirefy.hire.Dto.CandidateEducationDto;
+import com.pranhirefy.hire.dto.CandidateEducationDto;
 //import com.pranhirefy.hire.dto.CandidateEducationDto;
 import com.pranhirefy.hire.entity.Candidate;
 import com.pranhirefy.hire.entity.CandidateEducation;

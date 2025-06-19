@@ -1,6 +1,6 @@
 package com.pranhirefy.hire.controller;
 
-import com.pranhirefy.hire.Dto.CandidateAddressDto;
+import com.pranhirefy.hire.dto.CandidateAddressDto;
 import com.pranhirefy.hire.exception.CandidateAddressDataException;
 import com.pranhirefy.hire.exception.CandidateAddressNotFoundException;
 import com.pranhirefy.hire.exception.ResourceNotFoundsException;

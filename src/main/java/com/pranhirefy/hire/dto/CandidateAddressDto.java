@@ -1,4 +1,4 @@
-package com.pranhirefy.hire.Dto;
+package com.pranhirefy.hire.dto;
 
 
 
